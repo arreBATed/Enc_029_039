@@ -1,9 +1,9 @@
 
-package extra_ej04_descuento_por_socio;
+package extra_ej05_descuento_por_socio;
 
 import java.util.Scanner;
 
-public class Extra_Ej04_Descuento_Por_Socio {
+public class Extra_Ej05_Descuento_Por_Socio {
 
     public static void main(String[] args) {
             

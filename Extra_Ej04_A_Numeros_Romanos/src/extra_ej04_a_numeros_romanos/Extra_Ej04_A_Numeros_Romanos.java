@@ -20,7 +20,7 @@ public class Extra_Ej04_A_Numeros_Romanos {
         }
     }
     
-    public static DeDecimalARomano(int d) {
+    public static void DeDecimalARomano(int d) {
         
         switch (d)  {
             case 1: 
